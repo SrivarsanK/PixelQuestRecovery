@@ -1,0 +1,24 @@
+# Gamified Recovery Game - Rosebud AI Prompt
+
+Create a 2D pixel art game where players battle real-life addictions through completely unique gameplay mechanics tailored to each struggle's psychology.
+
+**Game Opening:**
+Players stand before six mystical doorways, each pulsing with different energy. Selecting your struggle transforms the entire game into a distinct experience with unique mechanics, art style, and emotional journey.
+
+**Alcohol - "The Memory Keeper":**
+You're a time traveler who loses memories each time you drink, creating fractured timelines. The world literally splits into parallel realities - sober timeline shows vibrant relationships and achievements, drunk timeline shows fading faces and missed moments. Gameplay involves puzzle-platforming where you must merge timeline fragments by staying sober. Each clean day restores one precious memory as a playable flashback level. Mini-games include reconstructing family dinners, replaying career moments, and reconnecting neural pathways through pattern-matching. Your character physically becomes more solid and present. The ultimate goal: restore enough memories to find your "anchor person" who never gave up on you.
+
+**Smoking - "The Oxygen Runner":**
+An intense endless runner where your lung capacity IS your fuel tank. You're escaping a crumbling shadow world, and every cigarette slows you down while darkness closes in. Each smoke-free day increases your maximum speed and stamina bar. Gameplay features parkour mechanics - jump, slide, wall-run through decaying cities that rebuild as you pass. Collect breath orbs that heal your lungs, showing pink tissue replacing black tar in real-time body visualizations. Boss battles against personified cravings - defeat them through rhythm-based breathing combat. The faster and longer you run clean, the more the world transforms from industrial wasteland to lush forest. Unlock shortcuts and secret areas only accessible with fully healed lungs.
+
+**Vaping - "The Signal Hacker":**
+A cyberpunk game where you're a hacker breaking free from a digital addiction virus. Vaping keeps you jacked into the false reality matrix while the real world needs you. Gameplay is hacking puzzles mixed with stealth mechanics - each clean hour gives you "clarity points" to decrypt system layers. The twist: you see two overlapping worlds simultaneously. Vape world is neon, flashy, comfortable but empty. Real world is initially grayscale but gains color with each clean day. Mini-games involve coding challenges, circuit rewiring, and defragging your brain's reward system. Plant digital resistance viruses in vape advertisements. Free other trapped users. Final mission: shut down the addiction algorithm controlling the city.
+
+**Doomscrolling - "The Reality Weaver":**
+A god-game where you're creating your own world, but doomscrolling steals your creative energy to feed someone else's reality. You start with a tiny gray island and finite "life energy" that drains when scrolling. Each hour off social media generates creative essence shown as golden light. Use it to paint landscapes, sculpt mountains, populate with creatures. But here's the twist: you must also enter your creation and LIVE in it through life simulation gameplay. Plant gardens, build relationships with NPCs, complete quests. Doomscrolling makes you a ghost observer unable to interact. Being present makes you solid. The contrast is visceral - godmode creation versus ground-level living. Balance both perspectives to build a world worth inhabiting.
+
+**Binge Eating - "The Emotion Alchemist":**
+A potion-crafting adventure where you transform difficult emotions into magic instead of numbing them with food. You run an alchemy shop in a village plagued by an emotional curse. Gameplay: emotions appear as wild elemental creatures - angry fire sprites, sad water spirits, anxious lightning bugs. Instead of binge eating to suppress them, you must catch and transmute them through timing-based brewing mini-games. Mindful eating gives you transmutation power. Each creature becomes a helpful potion: anger into courage, sadness into empathy, anxiety into motivation. Bingeing makes emotions multiply and overwhelm your shop. Build emotional tolerance through increasingly complex alchemical recipes. Villagers bring their emotional creatures to you, creating relationship progression and purpose beyond yourself.
+
+**Universal Mechanics:**
+Each game tracks streaks but integrates them narratively rather than as mere counters. Relapse triggers unique story consequences that add depth rather than punishment. All games include journaling disguised as in-game lore collection and community features showing anonymous player achievements as environmental storytelling.
