@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Reality Weaver - Therapeutic World Builder</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        font-family: 'Inter', sans-serif;
+        background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3a 100%);
+      }
+      
+      /* Pixel art styling */
+      canvas, img {
+        image-rendering: -moz-crisp-edges;
+        image-rendering: -webkit-crisp-edges;
+        image-rendering: pixelated;
+        image-rendering: crisp-edges;
+      }
+      
+      /* Loading screen */
+      .loading {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3a 100%);
+        color: #ffffff;
+        z-index: 9999;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="loading" class="loading">
+      <div>Loading Reality Weaver...</div>
+    </div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
